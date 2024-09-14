@@ -1,0 +1,2 @@
+What is recursion?
+The recursion process in C refers to the process in which the program repeats a certain section of code in a similar way. Thus, in the programming languages, when the program allows the user to call any function inside the very same function, it is referred to as a recursive call in that function.
